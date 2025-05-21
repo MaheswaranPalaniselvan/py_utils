@@ -23,3 +23,16 @@ https://symphonyfintech.com/xts-market-data-front-end-api-v2/
 
 https://github.com/symphonyfintech
 
+[AliceBlue]
+
+https://v2api.aliceblueonline.com/introduction
+
+
+https://github.com/jerokpradeep/pya3/tree/main
+
+
+
+[Stoxxo]
+
+https://docs.google.com/document/d/1hEOWpEbi669xtLjkD00CkEKzQxc8BopSDhYEoOZWs7w/edit?tab=t.0#heading=h.t185tov6i4b6
+
