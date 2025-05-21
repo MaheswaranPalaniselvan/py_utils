@@ -36,3 +36,12 @@ https://github.com/jerokpradeep/pya3/tree/main
 
 https://docs.google.com/document/d/1hEOWpEbi669xtLjkD00CkEKzQxc8BopSDhYEoOZWs7w/edit?tab=t.0#heading=h.t185tov6i4b6
 
+
+
+
+[Kotak Neo]
+
+https://github.com/EasySimpleTrade/Kotak-Neo-API/tree/main
+
+
+
